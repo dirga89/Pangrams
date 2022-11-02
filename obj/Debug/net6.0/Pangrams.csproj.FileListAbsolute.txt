@@ -1,0 +1,15 @@
+I:\Project\HackerRank\OneMonthPreparation\Week01\Pangrams\bin\Debug\net6.0\Pangrams.exe
+I:\Project\HackerRank\OneMonthPreparation\Week01\Pangrams\bin\Debug\net6.0\Pangrams.deps.json
+I:\Project\HackerRank\OneMonthPreparation\Week01\Pangrams\bin\Debug\net6.0\Pangrams.runtimeconfig.json
+I:\Project\HackerRank\OneMonthPreparation\Week01\Pangrams\bin\Debug\net6.0\Pangrams.dll
+I:\Project\HackerRank\OneMonthPreparation\Week01\Pangrams\bin\Debug\net6.0\Pangrams.pdb
+I:\Project\HackerRank\OneMonthPreparation\Week01\Pangrams\obj\Debug\net6.0\Pangrams.csproj.AssemblyReference.cache
+I:\Project\HackerRank\OneMonthPreparation\Week01\Pangrams\obj\Debug\net6.0\Pangrams.GeneratedMSBuildEditorConfig.editorconfig
+I:\Project\HackerRank\OneMonthPreparation\Week01\Pangrams\obj\Debug\net6.0\Pangrams.AssemblyInfoInputs.cache
+I:\Project\HackerRank\OneMonthPreparation\Week01\Pangrams\obj\Debug\net6.0\Pangrams.AssemblyInfo.cs
+I:\Project\HackerRank\OneMonthPreparation\Week01\Pangrams\obj\Debug\net6.0\Pangrams.csproj.CoreCompileInputs.cache
+I:\Project\HackerRank\OneMonthPreparation\Week01\Pangrams\obj\Debug\net6.0\Pangrams.dll
+I:\Project\HackerRank\OneMonthPreparation\Week01\Pangrams\obj\Debug\net6.0\refint\Pangrams.dll
+I:\Project\HackerRank\OneMonthPreparation\Week01\Pangrams\obj\Debug\net6.0\Pangrams.pdb
+I:\Project\HackerRank\OneMonthPreparation\Week01\Pangrams\obj\Debug\net6.0\Pangrams.genruntimeconfig.cache
+I:\Project\HackerRank\OneMonthPreparation\Week01\Pangrams\obj\Debug\net6.0\ref\Pangrams.dll
